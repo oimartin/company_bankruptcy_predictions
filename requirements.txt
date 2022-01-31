@@ -5,3 +5,4 @@ matplotlib==3.2.2
 sklearn==1.0.2
 jupyter==1.0.0
 pytest==6.2.5
+nbval==0.9.6
