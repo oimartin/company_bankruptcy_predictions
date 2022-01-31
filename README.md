@@ -38,7 +38,7 @@ Both the train and test data had high accuracy scores, 0.9757 and 0.9683, respec
 
 ## Linear Support Vector Classification
 Again, the train and test data had high accuracy scores, 0.9749 and 0.9673, respectively. 
-![LSVC_train](https://github.com/oimartin/company_bankruptcy_predictions/blob/main/figures/fLSVC_Train_roc_prec_rec_curves.png?raw=true)
+![LSVC_train](https://github.com/oimartin/company_bankruptcy_predictions/blob/main/figures/LSVC_Train_roc_prec_rec_curves.png?raw=true)
 ![LSVC_test](https://github.com/oimartin/company_bankruptcy_predictions/blob/main/figures/LSVC_Test_roc_prec_rec_curves.png?raw=true)
 
 ## Gaussian Naive Bayes
