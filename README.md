@@ -1,4 +1,5 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oimartin/company_bankruptcy_predictions/blob/main/Notebook_bankrupt.ipynb#scrollTo=ZEw9B5eKJqhN)
+[![Python application test with Github Actions](https://github.com/oimartin/company_bankruptcy_predictions/actions/workflows/main.yml/badge.svg)](https://github.com/oimartin/company_bankruptcy_predictions/actions/workflows/main.yml)
 
 # Company Bankruptcy Predictions
 Data was collected from the 'Company Bankruptcy Prediction' on Kaggle (https://www.kaggle.com/fedesoriano/company-bankruptcy-prediction). Predictions for company bankruptcy come from Taiwan Economic Journale (1999-2009). 95 input features, 1 output feature, Bankrupt?.
